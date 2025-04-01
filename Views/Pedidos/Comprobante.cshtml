@@ -1,0 +1,87 @@
+﻿@model AlquimiaEsencial.Models.Pedido
+
+@{
+    Layout = null; // Importante para que el PDF se genere sin layout general
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>Comprobante Pedido #@Model.Id</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .info {
+            margin-bottom: 20px;
+        }
+
+        .label {
+            font-weight: bold;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: gray;
+            margin-top: 40px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h2>🧾 Comprobante de Pedido</h2>
+
+    <div class="section">
+        <p><span class="label">N° Pedido:</span> @Model.Id</p>
+        <p><span class="label">Fecha:</span> @Model.Fecha.ToString("dd/MM/yyyy HH:mm")</p>
+    </div>
+
+    <div class="section">
+        <p><span class="label">Cliente:</span> @Model.NombreCliente</p>
+        <p><span class="label">Teléfono:</span> @Model.Telefono</p>
+    </div>
+
+    <div class="section">
+        <p><span class="label">Producto:</span> @Model.Producto?.Nombre ?? "No especificado"</p>
+        @if (Model.Producto != null)
+        {
+            <p><span class="label">Precio:</span> $@Model.Producto.Precio.ToString("F2")</p>
+        }
+    </div>
+
+    @if (!string.IsNullOrWhiteSpace(Model.Observaciones))
+    {
+        <div class="section">
+            <p><span class="label">Observaciones:</span> @Model.Observaciones</p>
+        </div>
+    }
+
+    <div class="footer">
+        Gracias por confiar en <strong>Alquimia Esencial</strong> 🌿<br />
+        Este comprobante fue generado automáticamente.
+    </div>
+</body>
+</html>

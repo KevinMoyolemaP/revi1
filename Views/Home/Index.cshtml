@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<!-- Hero Section -->
+<div class="hero-section text-center text-white d-flex align-items-center justify-content-center" style="background-image: url('/img/hero-bg.jpg'); height: 400px; background-size: cover; background-position: center;">
+    <div class="bg-dark bg-opacity-50 p-4 rounded">
+        <h1 class="display-4">Bienvenido a Alquimia Esencial</h1>
+        <p class="lead">El poder natural de los aceites esenciales en tus manos</p>
+        <a asp-controller="Productos" asp-action="Index" class="btn btn-success btn-lg mt-3">Ver Productos</a>
+    </div>
+</div>
+
+<!-- Quiénes Somos -->
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Quiénes Somos</h2>
+    <div class="card shadow border-0">
+        <div class="card-body">
+            <p>
+                Somos una empresa ambateña especializada en la destilación de aceites esenciales puros. Nos dedicamos a ofrecer productos naturales de alta calidad, cuidadosamente procesados para preservar sus propiedades terapéuticas.
+            </p>
+            <p>
+                Nuestro compromiso es contigo y tu bienestar, brindándote soluciones naturales para el equilibrio físico, mental y emocional.
+            </p>
+        </div>
+    </div>
+</div>
+
+<!-- Productos Destacados -->
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Productos Destacados</h2>
+    <div class="row justify-content-center">
+        @* Simulación de productos destacados (puedes reemplazar con un loop real) *@
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="/img/productos/aceite1.jpg" class="card-img-top" alt="Aceite Esencial 1">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Lavanda Relajante</h5>
+                    <p class="card-text">Ideal para el estrés y el insomnio</p>
+                    <a href="https://wa.me/593983015307" target="_blank" class="btn btn-outline-success">Comprar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="/img/productos/aceite2.jpg" class="card-img-top" alt="Aceite Esencial 2">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Menta Energizante</h5>
+                    <p class="card-text">Refresca, despeja y revitaliza</p>
+                    <a href="https://wa.me/593983015307" target="_blank" class="btn btn-outline-success">Comprar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Ubicación y contacto -->
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Encuéntranos</h2>
+    <div class="card shadow border-0">
+        <div class="card-body text-center">
+            <p>Nos encontramos frente al subcentro de salud, Ambato - Tungurahua.</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3988.796402209075!2d-78.60110822503437!3d-1.2968160986908615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMcKwMTcnNDguNSJTIDc4wrAzNSc1NC43Ilc!5e0!3m2!1ses!2sec!4v1743384003092!5m2!1ses!2sec"
+                    width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+            <p class="mt-3">
+                <strong>Teléfono:</strong> +593 98 301 5307 <br />
+                <strong>Email:</strong> contacto@alquimiaesencial.com
+            </p>
+        </div>
+    </div>
+</div>

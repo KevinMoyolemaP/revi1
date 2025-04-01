@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\pedidos\\comprobante.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\pedidos\\comprobante.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\pedidos\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\pedidos\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\ventas\\crearpedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\ventas\\crearpedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\migrations\\20250401035129_creartablapedidos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\migrations\\20250401035129_creartablapedidos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\migrations\\20250401030546_creartablapedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\migrations\\20250401030546_creartablapedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\migrations\\20250401012917_relacionesfixfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\migrations\\20250401012917_relacionesfixfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\migrations\\20250401032228_agregarproductoapedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\migrations\\20250401032228_agregarproductoapedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\recomendaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\recomendaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\controllers\\recomendacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:controllers\\recomendacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\models\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:models\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\views\\perfil\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:views\\perfil\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\configuracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\configuracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\migrations\\20250331225850_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\migrations\\20250331225850_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\models\\clienteperfil .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:models\\clienteperfil .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\migrations\\20250331230830_iniciale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\migrations\\20250331230830_iniciale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|c:\\users\\administrador\\source\\repos\\alquimiaesencial\\data\\migrations\\20250401011510_actulizasion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF540A-5BF2-48B9-8BB9-17A20A19B688}|AlquimiaEsencial.csproj|solutionrelative:data\\migrations\\20250401011510_actulizasion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Pedidos\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pedidos\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Pedidos\\Admin.cshtml",
+              "RelativeToolTip": "Views\\Pedidos\\Admin.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T04:52:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comprobante.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Pedidos\\Comprobante.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pedidos\\Comprobante.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Pedidos\\Comprobante.cshtml",
+              "RelativeToolTip": "Views\\Pedidos\\Comprobante.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T04:52:25.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:01:55.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\PedidosController.cs*",
+              "RelativeToolTip": "Controllers\\PedidosController.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:11:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:29:28.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrearPedido.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Ventas\\CrearPedido.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\CrearPedido.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Ventas\\CrearPedido.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\CrearPedido.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T02:53:46.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:49:32.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Pedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pedidos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Pedidos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Pedidos\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T03:11:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:40:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Pedido.cs",
+              "RelativeToolTip": "Models\\Pedido.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:01:17.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAzwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:57:19.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:51:43.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250401035129_CrearTablaPedidos2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401035129_CrearTablaPedidos2.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250401035129_CrearTablaPedidos2.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401035129_CrearTablaPedidos2.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250401035129_CrearTablaPedidos2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:51:29.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250401030546_CrearTablaPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401030546_CrearTablaPedidos.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250401030546_CrearTablaPedidos.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401030546_CrearTablaPedidos.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250401030546_CrearTablaPedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:05:46.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250401012917_RelacionesFixFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401012917_RelacionesFixFinal.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250401012917_RelacionesFixFinal.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401012917_RelacionesFixFinal.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250401012917_RelacionesFixFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:29:18.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250401032228_AgregarProductoAPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401032228_AgregarProductoAPedido.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250401032228_AgregarProductoAPedido.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401032228_AgregarProductoAPedido.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250401032228_AgregarProductoAPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:22:28.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T03:39:51.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:40:59.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\DetallePedido.cs",
+              "RelativeToolTip": "Models\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:01:59.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Ventas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Ventas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Details.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T02:48:17.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAAMoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:43:02.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:52:00.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:52:17.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAQwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:45:28.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RecomendacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\RecomendacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecomendacionesController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\RecomendacionesController.cs",
+              "RelativeToolTip": "Controllers\\RecomendacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:23:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Recomendaciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recomendaciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Recomendaciones\\Index.cshtml",
+              "RelativeToolTip": "Views\\Recomendaciones\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T02:24:32.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Recomendacion.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Recomendacion.cs",
+              "RelativeDocumentMoniker": "Models\\Recomendacion.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Recomendacion.cs",
+              "RelativeToolTip": "Models\\Recomendacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:52:39.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:51:28.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250401011510_actulizasion.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401011510_actulizasion.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250401011510_actulizasion.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250401011510_actulizasion.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250401011510_actulizasion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:15:11.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T01:02:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:00:53.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T00:02:02.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:48:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T22:57:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:41:19.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:54:41.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Productos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Productos\\Details.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:41:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Perfil\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Perfil\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Views\\Perfil\\Index.cshtml",
+              "RelativeToolTip": "Views\\Perfil\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:33:57.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\PerfilController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PerfilController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Controllers\\PerfilController.cs",
+              "RelativeToolTip": "Controllers\\PerfilController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:33:08.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250331230830_Iniciale.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250331230830_Iniciale.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250331230830_Iniciale.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250331230830_Iniciale.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250331230830_Iniciale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:08:31.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ConfiguracionInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\ConfiguracionInicial.cs",
+              "RelativeDocumentMoniker": "Data\\ConfiguracionInicial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\ConfiguracionInicial.cs",
+              "RelativeToolTip": "Data\\ConfiguracionInicial.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:10:23.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250331225850_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250331225850_Inicial.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250331225850_Inicial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Data\\Migrations\\20250331225850_Inicial.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250331225850_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:58:50.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClientePerfil .cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\ClientePerfil .cs",
+              "RelativeDocumentMoniker": "Models\\ClientePerfil .cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AlquimiaEsencial\\Models\\ClientePerfil .cs",
+              "RelativeToolTip": "Models\\ClientePerfil .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:52:53.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

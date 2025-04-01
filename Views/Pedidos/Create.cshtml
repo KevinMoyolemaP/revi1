@@ -1,0 +1,65 @@
+@model AlquimiaEsencial.Models.Pedido
+
+@{
+    ViewData["Title"] = "Realizar Pedido";
+}
+
+<h2 class="text-center mt-4">?? Realizar un Pedido</h2>
+
+<div class="card shadow mx-auto mt-4" style="max-width: 600px;">
+    <div class="card-body">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            @* Producto (si aplica) *@
+            @if (ViewBag.ProductoId != null)
+            {
+                <input asp-for="ProductoId" type="hidden" value="@ViewBag.ProductoId" />
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Producto Seleccionado</label>
+                    <input class="form-control" value="@ViewBag.ProductoNombre" readonly />
+                </div>
+            }
+
+            @* Datos del cliente *@
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <div class="mb-3">
+                    <label asp-for="NombreCliente" class="form-label"></label>
+                    <input asp-for="NombreCliente" class="form-control" />
+                    <span asp-validation-for="NombreCliente" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Telefono" class="form-label"></label>
+                    <input asp-for="Telefono" class="form-control" />
+                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                </div>
+            }
+            else
+            {
+                <input type="hidden" asp-for="NombreCliente" value="@User.Identity.Name" />
+                <input type="hidden" asp-for="Telefono" value="Sin número" />
+                <p><strong>Cliente:</strong> @User.Identity.Name</p>
+            }
+
+            @* Observaciones *@
+            <div class="mb-3">
+                <label asp-for="Observaciones" class="form-label">Observaciones del pedido</label>
+                <textarea asp-for="Observaciones" class="form-control" rows="3"></textarea>
+                <span asp-validation-for="Observaciones" class="text-danger"></span>
+            </div>
+
+            <div class="text-end">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                <button type="submit" class="btn btn-primary">Enviar Pedido</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

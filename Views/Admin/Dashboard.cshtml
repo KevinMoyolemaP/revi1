@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Panel de Administración";
+}
+
+<h2 class="mt-4 text-center">Dashboard del Administrador</h2>
+
+<div class="row mt-4 text-center">
+    <div class="col-md-3 mb-3">
+        <div class="card border-success shadow h-100">
+            <div class="card-body">
+                <h5 class="card-title">Productos</h5>
+                <p class="display-6 fw-bold">@ViewBag.TotalProductos</p>
+                <a asp-controller="Productos" asp-action="Index" class="btn btn-outline-success btn-sm">Ver</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-primary shadow h-100">
+            <div class="card-body">
+                <h5 class="card-title">Usuarios Registrados</h5>
+                <p class="display-6 fw-bold">@ViewBag.TotalUsuarios</p>
+                <a asp-area="Identity" asp-page="/Account/Manage/Index" class="btn btn-outline-primary btn-sm">Gestionar</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-info shadow h-100">
+            <div class="card-body">
+                <h5 class="card-title">Ventas</h5>
+                <p class="display-6 fw-bold">@ViewBag.TotalVentas</p>
+                <a asp-controller="Ventas" asp-action="Index" class="btn btn-outline-info btn-sm">Ver ventas</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-dark shadow h-100">
+            <div class="card-body">
+                <h5 class="card-title">Categorías</h5>
+                <p class="display-6 fw-bold">@ViewBag.TotalCategorias</p>
+                <a asp-controller="Categorias" asp-action="Index" class="btn btn-outline-dark btn-sm">Ver</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (((List<AlquimiaEsencial.Models.Producto>)ViewBag.ProductosBajoStock).Any())
+{
+    <div class="mt-5">
+        <h4>🚨 Productos con stock bajo</h4>
+        <table class="table table-bordered table-hover">
+            <thead class="table-warning">
+                <tr>
+                    <th>Nombre</th>
+                    <th>Stock</th>
+                    <th>Precio</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in ViewBag.ProductosBajoStock)
+                {
+                    <tr>
+                        <td>@p.Nombre</td>
+                        <td>@p.Stock</td>
+                        <td>$@p.Precio</td>
+                        <td>
+                            <a asp-controller="Productos" asp-action="Edit" asp-route-id="@p.Id" class="btn btn-sm btn-warning">Editar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

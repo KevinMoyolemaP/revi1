@@ -1,0 +1,31 @@
+@model AlquimiaEsencial.Models.Producto
+
+@{
+    ViewData["Title"] = "Detalles";
+}
+
+<h2 class="mt-4 text-center">Detalles del Producto</h2>
+
+<div class="card shadow-lg mx-auto mt-4" style="max-width: 600px;">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-4">Nombre</dt>
+            <dd class="col-sm-8">@Model.Nombre</dd>
+
+            <dt class="col-sm-4">Precio</dt>
+            <dd class="col-sm-8">$@Model.Precio</dd>
+
+            <dt class="col-sm-4">Stock</dt>
+            <dd class="col-sm-8">@Model.Stock</dd>
+
+            <dt class="col-sm-4">Imagen</dt>
+            <dd class="col-sm-8">
+                <img src="@Model.ImagenUrl" alt="Imagen" class="img-fluid rounded" style="max-height: 200px;" />
+            </dd>
+        </dl>
+        <div class="text-end">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
+            <a asp-action="Index" class="btn btn-secondary">Volver</a>
+        </div>
+    </div>
+</div>

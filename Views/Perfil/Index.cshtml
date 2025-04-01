@@ -1,0 +1,22 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityUser
+
+@{
+    ViewData["Title"] = "Mi Perfil";
+}
+
+<h2 class="mt-4 text-center">Mi Perfil</h2>
+
+<div class="card shadow-lg mt-4 mx-auto" style="max-width: 500px;">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-4">Usuario</dt>
+            <dd class="col-sm-8">@Model.UserName</dd>
+
+            <dt class="col-sm-4">Correo</dt>
+            <dd class="col-sm-8">@Model.Email</dd>
+
+            <dt class="col-sm-4">Confirmado</dt>
+            <dd class="col-sm-8">@(Model.EmailConfirmed ? "Sí" : "No")</dd>
+        </dl>
+    </div>
+</div>
